@@ -1,0 +1,32 @@
+.inp {
+	border-top-style: hidden;
+	border-right-style: hidden;
+	border-left-style: hidden;
+	border-bottom-color: dimgrey;
+	border-bottom-width: thin;
+	/* background-color: #f8f9fa; */
+}
+
+.inp:focus {
+	outline: none;
+}
+
+.img {
+	width: 25px;
+	height: 25px;
+}
+
+.signInOthers {
+	margin-top: -40px;
+	border-radius: 28px;
+	border: 1px solid grey;
+}
+
+.signInOthers:hover {
+	cursor: pointer;
+	background-color: #f8f9fa;
+}
+
+.sign-up:hover {
+	cursor: pointer;
+}

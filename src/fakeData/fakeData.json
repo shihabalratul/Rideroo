@@ -1,0 +1,30 @@
+[
+	{
+		"id": "1",
+		"vehicle": "Bike",
+		"img": "https://i.ibb.co/c6XNPyV/Frame.png",
+		"price": 20,
+		"passenger": 2
+	},
+	{
+		"id": "2",
+		"vehicle": "Car",
+		"img": "https://i.ibb.co/mbKFR75/Frame-2.png",
+		"price": 11,
+		"passenger": 3
+	},
+	{
+		"id": "3",
+		"vehicle": "Bus",
+		"img": "https://i.ibb.co/zQmh6DT/Frame-1.png",
+		"price": 36,
+		"passenger": 20
+	},
+	{
+		"id": "4",
+		"vehicle": "Train",
+		"img": "https://i.ibb.co/1RxBR7x/Group.png",
+		"price": 43,
+		"passenger": 48
+	}
+]
