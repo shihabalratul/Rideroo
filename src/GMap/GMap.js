@@ -27,7 +27,7 @@ const GMap = (props) => {
 					frameBorder="0" style={{ border: 0, borderRadius: '10px' }}
 					src={`https://www.google.com/maps/embed/v1/view
 					?key=AIzaSyDS2oE05wMz7Hn_cTT0BC9lBM8P1j6nKjs
-					&center=23.9536,90.1495
+					&center=23.8103%2C90.4125
 					&zoom=10
 					&maptype=roadmap`} allowFullScreen>
 				</iframe>
