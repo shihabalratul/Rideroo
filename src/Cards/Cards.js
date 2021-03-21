@@ -6,8 +6,8 @@ const Cards = (props) => {
 
 
 	return (
-		<Link style={{ textDecoration: 'none' }} to={'Destination/' + id}>
-			<div className="col">
+		<Link className="col-md-3" style={{ textDecoration: 'none' }} to={'Destination/' + id}>
+			<div >
 				<div style={{ borderRadius: "10px" }} className="card">
 					<img style={{ height: '200px' }} className="p-4" src={img} alt="" />
 					<h2 className="text-align-center">{vehicle}</h2>

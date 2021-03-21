@@ -1,0 +1,9 @@
+.home {
+	padding: 50px;
+	padding-bottom: 200px;
+	background-image: url('../images/background.jpg');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
