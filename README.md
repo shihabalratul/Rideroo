@@ -9,7 +9,8 @@
 
 
 ### Description:
-This is a dummy ride sharing website.You can sign in and sign out with facebook ,google and password varification.
-If you click on any card in the home page it will take you to the distination page.In there you can find a route in the google map to your destination.
+1. The user can choose a ride. User can Create a New Account or sign in with an existing account. 
+2. After signing in he will be redirected to a page where he can select his location and destination and a google map will show him the path to his destination.
+3. The home page is responsive with phone and pc.
 
 ### Live site link: https://rideroo.web.app/
